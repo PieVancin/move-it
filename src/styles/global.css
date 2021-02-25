@@ -53,5 +53,14 @@ a {
 }
 
 .experience-bar {
-    
+    display: flex;
+    align-items: center;
+}
+
+.experience-bar span {
+    font-size: 1rem;
+}
+
+.experience-bar > div {
+    font-size: 1rem;
 }
