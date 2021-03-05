@@ -5,10 +5,11 @@
 }
 
 :root {
+    --background-image: linear-gradient(150deg, #b3b9ff, #4953b8);
     --white: #fff;
     --background: #f2f3f5;
     --gray-line: #dcdde0;
-    --text: #666666;
+    --text: #535252;
     --text-highlight: #b3b9ff;
     --title: #2e384d;
     --red: #e83f5b;
@@ -19,10 +20,9 @@
 
 }
 
-/* Adapta o tamanho da aplicação ao tamanho da tela do usuário */
 @media(max-width: 1080px) {
     html {
-        font-size: 93.75%;  /* diminui 1px, porque 16*0,9375=15 */
+        font-size: 93.75%;
     }
 }
 
@@ -36,7 +36,7 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    background: var(--background);
+    background: var(--background-image);
     color: var(--text);
 }
 
