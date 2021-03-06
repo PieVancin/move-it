@@ -56,7 +56,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 There's also an production version running in Vercel, that can be acessed through [this link](https://move-it-pievancin.vercel.app/).
 
-## 📄 Licence
+## 📄 License
 
 This project is under the MIT License. See the file [LICENSE](LICENSE.md) for more details.
 
