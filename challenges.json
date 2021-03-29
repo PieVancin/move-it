@@ -26,7 +26,7 @@
   },
   {
     "type": "body",
-    "description": "Sentado, abra as pernas e tente encostar as palmas das mãos no chão, repita 3 vezes por 5 segundos.",
+    "description": "Sitting, spread your legs and try to touch your palms to the floor, repeat 3 times for 5 seconds.",
     "amount": 80
   },
   {
@@ -41,22 +41,22 @@
   },
   {
     "type": "eye",
-    "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
+    "description": "Sitting, close your eyes and cover them with your palms for 2 minutes, then open normally.",
     "amount": 90
   },
   {
     "type": "eye",
-    "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3s, mexa apenas os olhos. Repita 3 vezes.",
+    "description": "In an open environment, look the fartest you can in four different directions for 3 minutes, moving only your eyes. Repeat 3 times.",
     "amount": 140
   },
   {
     "type": "eye",
-    "description": "Usando os polegares, massage a área abaixo das sobrancelhas em movimentos circulares por 15 segundos.",
+    "description": "With your thumbs, massage the area below the eyebrows with circular movements for 15 seconds.",
     "amount": 70
   },
   {
     "type": "body",
-    "description": "Em pé, gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Repita para a direita.",
+    "description": "Standing, rotate your waist as far as you can to the left, hold for 5 seconds. Repeat turning to the right.",
     "amount": 90
   }
 ]
